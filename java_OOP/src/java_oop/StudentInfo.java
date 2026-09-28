@@ -34,7 +34,9 @@ public class StudentInfo {
 		System.out.println("Name = "+name);
 		System.out.println("Age = "+age);
 		System.out.println("City = "+city);
+		
 		double averagePercentage = (percentage1 + percentage2)/2;
+		
 		System.out.println("Average Percentage = "+averagePercentage);
 		System.out.println("Grade = "+grade);
 		

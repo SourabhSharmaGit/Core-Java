@@ -3,7 +3,7 @@ package java_oop;
 public class breakTheLoop {
 
 	public static void main(String[] args) {
-		
+
 		//break the loop at 7
 		
 		int i =1;
@@ -14,7 +14,6 @@ public class breakTheLoop {
 			if(i == 7) {
 				break;
 			}
-			
 		}
 	}
 }
