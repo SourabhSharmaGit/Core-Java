@@ -1,4 +1,4 @@
-package java_oop;
+package arrays;
 
 public class Array2D {
 

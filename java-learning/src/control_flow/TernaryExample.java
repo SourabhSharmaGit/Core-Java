@@ -1,4 +1,4 @@
-package java_oop;
+package control_flow;
 
 public class TernaryExample {
 

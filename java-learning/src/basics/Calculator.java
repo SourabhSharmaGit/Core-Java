@@ -1,4 +1,4 @@
-package java_oop;
+package basics;
 
 public class Calculator {
 
